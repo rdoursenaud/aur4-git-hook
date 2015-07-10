@@ -1,0 +1,3 @@
+#!/bin/sh
+mksrcinfo
+git add PKGBUILD .SRCINFO
